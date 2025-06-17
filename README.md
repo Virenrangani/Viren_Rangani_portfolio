@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   <br>
   <a href="http://gregsithole.com">
@@ -65,3 +66,6 @@ MIT
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant) -->
+=======
+# Viren_Rangani_portfolio
+>>>>>>> 6635260100b5b4f8cfd24e7bb363caed008d4647
