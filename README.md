@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-<h1 align="center">
-  <br>
-  <a href="http://gregsithole.com">
-  <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
-  <br>
-  Greg Sithole's Personal Website
-  <br>
-</h1>
-
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Greg Sithole</a>.</h4>
-
-<br>
-
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
-
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/). From your command line:
@@ -66,6 +50,9 @@ MIT
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant) -->
+
 =======
+
 # Viren_Rangani_portfolio
->>>>>>> 6635260100b5b4f8cfd24e7bb363caed008d4647
+
+> > > > > > > 6635260100b5b4f8cfd24e7bb363caed008d4647
