@@ -9,17 +9,15 @@ const WorkExperience = [
   //     "Communicate with multi-disciplinary teams of engineers, team leads, and QA Engineers on a daily basis",
   //   ],
   // },
-  // {
-  //   id: 2,
-  //   title: "Junior Software Developer",
-  //   company: "Entrostat",
-  //   yearsActive: "May 2017 - December 2021",
-  //   information: [
-  //     "Improved and optimized the company's website for a seamless customer experience",
-  //     "Created, communicated, and managed project plans & project timelines",
-  //     "Worked to continually meet the expectation of our clients",
-  //   ],
-  // },
+  {
+    id: 2,
+    title: "DotNet & Angular Developer",
+    company: "TatvaSoft",
+    yearsActive: "1st july - 15th july 2025 (2 weeks)",
+    information: [
+      "Gained hands-on experience in developing web applications using ASP.NET Core and Angular, working on CRUD operations, API integration, and frontend-backend synchronization.",
+    ],
+  },
   {
     id: 3,
     title: "Placement Coordinator",
