@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import Image from "../../assets/viren.png";
-import Resume from "../../assets/VIREN-RANGANI-RESUME.pdf";
+import Resume from "../../assets/Viren_Rangani_GEC_Gandhinagar_Resume.pdf";
 import AboutBox from "./AboutBox";
 
 const About = () => {
@@ -41,8 +41,6 @@ const About = () => {
               <li>Node.js</li>
               <li>MONGO-DB</li>
               <li>Express.js</li>
-              <li>NestJS</li>
-              <li>Tailwind CSS</li>
               <li>Flutter</li>
               <li>Dart</li>
               <li>Python</li>

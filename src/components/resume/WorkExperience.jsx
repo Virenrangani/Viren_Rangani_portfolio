@@ -1,14 +1,14 @@
 const WorkExperience = [
-  // {
-  //   id: 1,
-  //   title: "Software Engineer",
-  //   company: "Kurtosys",
-  //   yearsActive: "January 2022 - Present",
-  //   information: [
-  //     "Write modern, performant, maintainable code for a diverse array of internal projects",
-  //     "Communicate with multi-disciplinary teams of engineers, team leads, and QA Engineers on a daily basis",
-  //   ],
-  // },
+  {
+    id: 1,
+    title: "Software Engineer Intern",
+    company: "TatvaSoft",
+    yearsActive: "January 2026 - present",
+    information: [
+      "I recently joined TatvaSoft as a Flutter Mobile Developer, marking the beginning of my professional journey in mobile application development.",
+      "I am working on building scalable, high-performance, and user-friendly mobile applications while continuously enhancing my technical and problem-solving skills. This opportunity allows me to grow in a collaborative and industry-driven environment.",
+    ],
+  },
   {
     id: 2,
     title: "DotNet & Angular Developer",
